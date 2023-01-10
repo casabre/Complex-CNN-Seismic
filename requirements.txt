@@ -1,5 +1,5 @@
 tensorflow[gpu] == 2.10.0
-complex-keras >= 0.2.3
+keras-complex >= 0.2.3
 numpy
 scipy
 matplotlib
